@@ -1,0 +1,12 @@
+{
+  "Register_Schema": {
+    "name": "Register",
+    "properties": {
+      "firstName": "string",
+      "lastName": "string",
+      "email": "string",
+      "mobile": "string",
+      "country": "string"
+    }
+  }
+}
